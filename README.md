@@ -56,8 +56,5 @@ Sprint Review: Alınan kararlar: Toplantilar sonucunda iki oyun fikrinin birlest
 Sprint Retrospective:
 Scrum Master belirlendi, daha cok toplanti duzenlenmesine karar verildi, uyelerin katilimi gozlendi, cesitli oylamalar ve tartismalarda  yapildi.
 
-Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
-Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
-Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
 
