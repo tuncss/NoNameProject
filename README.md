@@ -1,7 +1,6 @@
 # **Takım İsmi**
 
-Takım X
-
+Unity U-90
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
