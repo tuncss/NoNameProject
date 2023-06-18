@@ -50,6 +50,9 @@ Sprint board update: Sprint board screenshotları:
 ![image](https://github.com/tuncss/NoNameProject/assets/135987985/426d043e-eb4d-40dd-9215-165568fbfae5)
 ![image](https://github.com/tuncss/NoNameProject/assets/135987985/14af82ff-da48-4c98-9348-6390f86f90b7)
 
+![ezgif com-video-to-gif (1)](https://github.com/KirbasKagan/Odev2-Branching/assets/121103371/d8df81db-2748-4d37-a282-20f067ed6a9c)
+![ezgif com-video-to-gif](https://github.com/KirbasKagan/Odev2-Branching/assets/121103371/ce0b1026-d541-4533-a8cc-8c95dfa94cf0)
+
 
 Sprint Review: Alınan kararlar: Toplantilar sonucunda iki oyun fikrinin birlestirilmesine, seviye, mekan ve harita tasarimlari uzerinde cesitli iyilestirmelerde bulunularak yeni bir oyun uretilmesine karar verilmistir. Sprint Review katilimcilari: Mustafa Tunç, Nazlıcan Özçakır, Emre Saraç, Kağan Kırbaş, Fatma Nur Işık 
 
