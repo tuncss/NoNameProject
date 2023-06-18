@@ -30,7 +30,7 @@ Takım X
 
 ## Product Backlog URL
 
- BELİRLENECEK
+[UNITY Takım 90 Trello Backlog](https://trello.com/b/Sddu6AAV/u-90 "UNITY Takım 90 Trello Backlog")
 
 ---
 
