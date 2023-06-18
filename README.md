@@ -22,22 +22,22 @@ Oyun Adı: KAM
 Tür: Gizem, Bulmaca, Gerilim, Aksiyon
 
 Konsept:
-KAM, üçüncü şahıs kamera açısıyla oynanan bir oyun olup gizem, bulmaca, gerilim ve aksiyon ögelerini içerir. Oyuncular, üç ana aşamayı tamamlarken parkurlar yapma, bulmacaları çözme ve bir ayin objesini bulma amacıyla tehlikeli bir dünyada yolculuğa çıkarlar.
+KAM, üçüncü şahıs kamera açısıyla oynanan bir oyun olup gizem, bulmaca, gerilim ve aksiyon ögelerini içerir. Oyuncular, üç ana aşamayı tamamlarken parkurlar yapma, bulmacaları çözme ve bir büyü objesini bulma amacıyla tehlikeli bir dünyada yolculuğa çıkarlar.
 
 Oynanış:
-Oyun üç ana aşamadan oluşur ve her bir aşamanın sonunda oyuncular, sonraki bölüm için ipuçlarını içeren yaratıklarla ilgili bilgiler edinirler. Örneğin, HınkırMunkur adlı bir yaratık, amonyaktan korkmaktadır, bu yüzden normal silahlarla onu öldürmek zor olabilir. Ancak oyuncu, amonyak arayarak veya başka bir yaratığı öldürerek bu öğeyi elde edebilir. Böylece HınkırMunkur ile daha kolay başa çıkabilir.
+Oyun üç ana aşamadan oluşur ve her bir aşamanın sonunda oyuncular, sonraki bölüm için ipuçlarını içeren yaratıklarla ilgili bilgiler edinirler. Örneğin, HınkırMunkur adlı bir yaratık, amonyaktan korkmaktadır, bu yüzden normal silahlarla onu öldürmek zor olabilir. Ancak oyuncu, amonyak arayarak veya başka bir yaratığı öldürerek bu öğeyi elde edebilir. Bu ögeler ile büyücümüz bir büyü yapar böylece ana karakter HınkırMunkur ile daha kolay başa çıkabilir.
 
 Oyunda bulunan yaratıkların her birinin benzersiz yetenlikleri ve zayıflıkları vardır. Örneğin, sağır bir canavarın gözüne nişan almak, onu sersemletir veya daha fazla hasar verir. Oyuncuların yaratıkların hitbox'larına dikkat etmeleri ve stratejik hamleler yapmaları gerekmektedir.
 
 Oyuncular, aşama boyunca keşfedilecek labirent benzeri alanlarda bulunan bulmacaları çözerek ilerlerler. Bu bulmacalar, gizli geçitleri açma, mekanizmaları etkinleştirme veya ipuçlarını ortaya çıkarma gibi çeşitli zorluklar içerir.
 
-Her aşamanın sonunda, oyuncular bir ayin objesini bulmak için parkurlar yaparlar. Bu ayin objesi, oyunun ilerleyen bölümlerinde hikayeyi ilerletmek veya oyuncuya yeni yetenekler veya eşyalar sağlamak için kullanılabilir.
+Her aşamanın sonunda, oyuncular bir ayin objesini bulmak için parkurlar yaparlar. Bu büyü objesi, oyunun ilerleyen bölümlerinde hikayeyi ilerletmek veya oyuncuya yeni yetenekler veya eşyalar sağlamak için kullanılabilir.
 
 Grafikler ve Atmosfer:
 KAM, etkileyici grafikler ve atmosferik bir ortamla oyuncuları içine çeken bir dünyaya sahip olacaktır. Detaylı ve karanlık mekanlar, oyuncuların gerilim dolu bir deneyim yaşamasına yardımcı olur.
 
 Hikaye:
-Oyunda, oyuncular bir kam'ın ayin objesini bulma ve gizli güçleri kontrol etme arayışına katılırlar. Hikaye ilerledikçe, alimcinin geçmişi ve amacı hakkında ipuçları keşfedilir. Gizemlerin, tehlikelerin ve sürprizlerin dolu olduğu bir dünyada, oyuncuların sırları açığa çıkararak sonuca ulaşmaları gerekmektedir.
+Oyunda, oyuncular bir Kam'ın büyü objesini bulma ve gizli güçleri kontrol etme arayışına katılırlar. Hikaye ilerledikçe, canavarların ve ana karakterin geçmişi ve amacı hakkında ipuçları keşfedilir. Gizemlerin, tehlikelerin ve sürprizlerin dolu olduğu bir dünyada, oyuncuların sırları açığa çıkararak sonuca ulaşmaları gerekmektedir.
 
 ## Ürün Amacı
 
