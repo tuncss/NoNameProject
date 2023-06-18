@@ -27,9 +27,7 @@ KAM
 
 18 Yaş ve üzeri, korku, gerilim, macera oyunları oynamaktan keyif alan tüm oyuncular.
 
-## Product Backlog URL
 
-[UNITY Takım 90 Trello Backlog](https://trello.com/b/Sddu6AAV/u-90 "UNITY Takım 90 Trello Backlog")
 
 ---
 
@@ -68,5 +66,7 @@ Alınan kararlar: Toplantilar sonucunda iki oyun fikrinin birlestirilmesine, sev
 ## Sprint Retrospective:
 Scrum Master belirlendi, daha cok toplanti duzenlenmesine karar verildi, uyelerin katilimi gozlendi, cesitli oylamalar ve tartismalarda  yapildi.
 
+## Product Backlog URL
 
+[UNITY Takım 90 Trello Backlog](https://trello.com/b/Sddu6AAV/u-90 "UNITY Takım 90 Trello Backlog")
 
