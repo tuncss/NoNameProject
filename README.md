@@ -14,7 +14,7 @@ Takım X
 
 ## Ürün İsmi
 
- BELİRLENECEK.
+KAM
 
 ## Ürün Açıklaması
 
@@ -26,7 +26,7 @@ Takım X
 
 ## Hedef Kitle
 
- BELİRLENECEK
+18 Yaş ve üzeri, korku, gerilim, macera oyunları oynamaktan keyif alan tüm oyuncular.
 
 ## Product Backlog URL
 
