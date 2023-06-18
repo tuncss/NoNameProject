@@ -35,9 +35,11 @@ KAM
 
 # Sprint 1
 
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+# Sprint içinde tamamlanması tahmin edilen puan:
+100 Puan
 
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puan uzerinden degerlendirmesi yapilacaktir.Her sprint icin 100 puan uzerinden degerlendirme yapilacaktir.
+# Puan tamamlama mantığı: 
+Toplamda proje boyunca tamamlanması gereken 300 puan uzerinden degerlendirmesi yapilacaktir.Her sprint icin 100 puan uzerinden degerlendirme yapilacaktir.
 
 Daily Scrum ve Weekly Scrum: Daily scrum toplantilari Whatsapp uzerinden, Weekly Scrum toplantilari ise haftada iki gun, Discord uzerinden yapilmasina karar verildi ve uygulandi. Daily Scrum toplantısı örneği word dosyasi olarak Readme'ye eklenmistir:  Sprint 1 Daily Scrum Chats: https://cdn.discordapp.com/attachments/1116061577272115270/1119974222815576177/Yeni_Microsoft_Word_Belgesi.docx
 
