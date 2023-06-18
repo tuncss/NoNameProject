@@ -47,6 +47,7 @@ Oyunda, oyuncular bir kam'ın ayin objesini bulma ve gizli güçleri kontrol etm
 
 18 Yaş ve üzeri, korku, gerilim, macera oyunları oynamaktan keyif alan tüm oyuncular.
 
+## JURIYE NOT
 
 
 ---
