@@ -39,9 +39,9 @@ KAM, etkileyici grafikler ve atmosferik bir ortamla oyuncuları içine çeken bi
 Hikaye:
 Oyunda, oyuncular bir kam'ın ayin objesini bulma ve gizli güçleri kontrol etme arayışına katılırlar. Hikaye ilerledikçe, alimcinin geçmişi ve amacı hakkında ipuçları keşfedilir. Gizemlerin, tehlikelerin ve sürprizlerin dolu olduğu bir dünyada, oyuncuların sırları açığa çıkararak sonuca ulaşmaları gerekmektedir.
 
-## Ürün Özellikleri
+## Ürün Amacı
 
- BELİRLENECEK
+ Türk mitolojisini temel alarak diğer bilinen mitojolilerin (yunan,roma,mısır,iskandinav mitolojileri gibi) bilinirlik düzeyine türk mitolojisinide çıkarmak.
 
 ## Hedef Kitle
 
