@@ -43,6 +43,7 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puan
 Daily Scrum ve Weekly Scrum: Daily scrum toplantilari Whatsapp uzerinden, Weekly Scrum toplantilari ise haftada iki gun, Discord uzerinden yapilmasina karar verildi ve uygulandi. Daily Scrum toplantısı örneği word dosyasi olarak Readme'ye eklenmistir:  Sprint 1 Daily Scrum Chats: https://cdn.discordapp.com/attachments/1116061577272115270/1119974222815576177/Yeni_Microsoft_Word_Belgesi.docx
 
 Sprint board update: Sprint board screenshotları:
+![image](https://github.com/tuncss/NoNameProject/assets/135987985/7b5e2e83-0d6b-4775-ad03-6694861a7d64)
 
 Ürün Durumu: Ekran görüntüleri:
 ![image](https://github.com/tuncss/NoNameProject/assets/135987985/960ba690-bc37-42de-aa39-864c7aece903)
@@ -53,6 +54,7 @@ Sprint board update: Sprint board screenshotları:
 Sprint Review: Alınan kararlar: Toplantilar sonucunda iki oyun fikrinin birlestirilmesine, seviye, mekan ve harita tasarimlari uzerinde cesitli iyilestirmelerde bulunularak yeni bir oyun uretilmesine karar verilmistir. Sprint Review katilimcilari: Mustafa Tunç, Nazlıcan Özçakır, Emre Saraç, Kağan Kırbaş, Fatma Nur Işık 
 
 Sprint Retrospective:
+Scrum Master belirlendi, daha cok toplanti duzenlenmesine karar verildi, uyelerin katilimi gozlendi, cesitli oylamalar ve tartismalarda  yapildi.
 
 Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
 Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
