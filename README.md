@@ -1,9 +1,9 @@
 # **Takım İsmi**
 
 Unity U-90
-# Ürün İle İlgili Bilgiler
+# Oyun İle İlgili Bilgiler
 
-## Takım Elemanları
+## Takım Üyeleri
 
 - Mustafa Tunç: Product Owner
 - Nazlıcan Özçakır: Scrum Master
@@ -11,11 +11,11 @@ Unity U-90
 - Kağan Kırbaş: Team Member/Developer
 - Fatma Nur Işık : Team Member/Developer
 
-## Ürün İsmi
+## Oyun İsmi
 
 KAM
 
-## Ürün Açıklaması
+## Oyun Açıklaması
 
 Oyun Adı: KAM
 
@@ -39,7 +39,7 @@ KAM, etkileyici grafikler ve atmosferik bir ortamla oyuncuları içine çeken bi
 Hikaye:
 Oyunda, oyuncular bir Kam'ın büyü objesini bulma ve gizli güçleri kontrol etme arayışına katılırlar. Hikaye ilerledikçe, canavarların ve ana karakterin geçmişi ve amacı hakkında ipuçları keşfedilir. Gizemlerin, tehlikelerin ve sürprizlerin dolu olduğu bir dünyada, oyuncuların sırları açığa çıkararak sonuca ulaşmaları gerekmektedir.
 
-## Ürün Amacı
+## Oyun Amacı
 
  Türk mitolojisini temel alarak diğer bilinen mitojolilerin (yunan,roma,mısır,iskandinav mitolojileri gibi) bilinirlik düzeyine türk mitolojisinide çıkarmak.
 
@@ -68,7 +68,7 @@ https://cdn.discordapp.com/attachments/1116061577272115270/1119974222815576177/Y
 ## Sprint board update: Sprint board screenshotları:
 ![image](https://github.com/tuncss/NoNameProject/assets/135987985/7b5e2e83-0d6b-4775-ad03-6694861a7d64)
 
-## Ürün Durumu: Ekran görüntüleri:
+## Oyun Durumu: Ekran görüntüleri:
 ![image](https://github.com/tuncss/NoNameProject/assets/135987985/960ba690-bc37-42de-aa39-864c7aece903)
 ![image](https://github.com/tuncss/NoNameProject/assets/135987985/426d043e-eb4d-40dd-9215-165568fbfae5)
 ![image](https://github.com/tuncss/NoNameProject/assets/135987985/14af82ff-da48-4c98-9348-6390f86f90b7)
