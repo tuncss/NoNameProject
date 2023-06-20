@@ -53,6 +53,8 @@ Oyunda, oyuncular bir Kam'ın büyü objesini bulma ve gizli güçleri kontrol e
 ---
 
 # Sprint 1
+## Sprint Notlari
+Tasarlanan iki oyunun assetleri karsilastirilarak eleme yapilacak ve hikayede birlesmeye gidilecek. 
 
 ## Sprint içinde tamamlanması tahmin edilen puan:
 100 Puan
