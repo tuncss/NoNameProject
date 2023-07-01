@@ -1,3 +1,5 @@
+
+https://github.com/tuncss/NoNameProject/assets/96622899/43b7b916-df54-4930-bb9a-50d03722686e
 # **Takım İsmi**
 
 Unity U-90 
@@ -124,9 +126,13 @@ Sprint 2 Daily Scrum Chats:
 
 Sprint board update: Sprint board screenshotları:
 ![WhatsApp Image 2023-06-30 at 16 00 50](https://github.com/tuncss/NoNameProject/assets/96622899/d2031166-3e9e-4a55-b034-15b863b00a93)
-![ezgif com-video-to-gif](https://github.com/tuncss/NoNameProject/assets/96622899/517e34f6-76ce-4c1a-b0ea-813ab76146ff)
 ![Ekran Görüntüsü (346)](https://github.com/tuncss/NoNameProject/assets/96622899/04c0a90c-1398-476d-b8ff-e1dd1a9da3bc)
 ![Ekran Görüntüsü (355)](https://github.com/tuncss/NoNameProject/assets/96622899/43c22ed2-58b8-4e99-b7c0-8d089857e804)
+https://github.com/tuncss/NoNameProject/assets/96622899/b32fd7d7-cabd-468a-8394-4c1112c6faf6
+
+
+
+
 
 
 
