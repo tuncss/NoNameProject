@@ -1,3 +1,7 @@
+![Ekran Görüntüsü (345)](https://github.com/tuncss/NoNameProject/assets/96622899/426deb90-825f-4ca8-9f8e-a27ae324084f)![Ekran Görüntüsü (351)](https://github.com/tuncss/NoNameProject/assets/96622899/659db587-5185-4d81-9849-fb381ddbedb2)
+![Ekran Görüntüsü (350)](https://github.com/tuncss/NoNameProject/assets/96622899/3d8ce19c-e19b-424b-8fcb-7a17f85aa073)
+![Ekran Görüntüsü (350)](https://github.com/tuncss/NoNameProject/assets/96622899/dceb2934-8bfb-42d9-a8ea-551bbce69e29)
+![Ekran Görüntüsü (349)](https://github.com/tuncss/NoNameProject/assets/96622899/e448f280-9080-4db3-b528-18981c91d43e)
 # **Takım İsmi**
 
 Unity U-90 
@@ -22,30 +26,46 @@ Oyun Adı: KAM
 Tür: Gizem, Bulmaca, Gerilim, Aksiyon
 
 Konsept:
-KAM, üçüncü şahıs kamera açısıyla oynanan bir oyun olup gizem, bulmaca, gerilim ve aksiyon ögelerini içerir. Oyuncular, üç ana aşamayı tamamlarken parkurlar yapma, bulmacaları çözme ve bir büyü objesini bulma amacıyla tehlikeli bir dünyada yolculuğa çıkarlar.
+KAM, üçüncü şahıs kamera açısıyla oynanan bir oyun olup gizem, bulmaca, gerilim ve aksiyon ögelerini içerir. Oyuncular, üç ana aşamayı tamamlarken parkurlar yapma, bulmacaları çözme ve canavarlardan kaçmak amacıyla tehlikeli bir dünyada yolculuğa çıkarlar.
 
 Oynanış:
-Oyun üç ana aşamadan oluşur ve her bir aşamanın sonunda oyuncular, sonraki bölüm için ipuçlarını içeren yaratıklarla ilgili bilgiler edinirler. Örneğin, HınkırMunkur adlı bir yaratık, amonyaktan korkmaktadır, bu yüzden normal silahlarla onu öldürmek zor olabilir. Ancak oyuncu, amonyak arayarak veya başka bir yaratığı öldürerek bu öğeyi elde edebilir. Bu ögeler ile büyücümüz bir büyü yapar böylece ana karakter HınkırMunkur ile daha kolay başa çıkabilir.
+Oyun üç ana aşamadan oluşur ve her bir aşamanın sonunda oyuncular, oyun hikayesini destekleyecek bir takım nesnelere ulaşır. Bunun için ise canavarları geçmek zorundadırlar.
 
 Oyunda bulunan yaratıkların her birinin benzersiz yetenlikleri ve zayıflıkları vardır. Örneğin, sağır bir canavarın gözüne nişan almak, onu sersemletir veya daha fazla hasar verir. Oyuncuların yaratıkların hitbox'larına dikkat etmeleri ve stratejik hamleler yapmaları gerekmektedir.
 
 Oyuncular, aşama boyunca keşfedilecek labirent benzeri alanlarda bulunan bulmacaları çözerek ilerlerler. Bu bulmacalar, gizli geçitleri açma, mekanizmaları etkinleştirme veya ipuçlarını ortaya çıkarma gibi çeşitli zorluklar içerir.
 
-Her aşamanın sonunda, oyuncular bir ayin objesini bulmak için parkurlar yaparlar. Bu büyü objesi, oyunun ilerleyen bölümlerinde hikayeyi ilerletmek veya oyuncuya yeni yetenekler veya eşyalar sağlamak için kullanılabilir.
+Her aşamanın sonunda, oyuncular canavarları öldürebilmek için parkurlar yaparlar. Canavarları alt ettikten sonra çok özel nesnelere ulaşırlar.
 
 Grafikler ve Atmosfer:
-KAM, etkileyici grafikler ve atmosferik bir ortamla oyuncuları içine çeken bir dünyaya sahip olacaktır. Detaylı ve karanlık mekanlar, oyuncuların gerilim dolu bir deneyim yaşamasına yardımcı olur.
+KAM, etkileyici grafikler ve atmosferik bir ortamla oyuncuları içine çeken bir dünyaya sahip olacaktır. Çoğunlukla low poly mekan tasarımlarına sahip ve oyunun akışını destekleyen mekan tasarımlarına sahiptir.
 
 Hikaye:
-Oyunda, oyuncular bir Kam'ın büyü objesini bulma ve gizli güçleri kontrol etme arayışına katılırlar. Hikaye ilerledikçe, canavarların ve ana karakterin geçmişi ve amacı hakkında ipuçları keşfedilir. Gizemlerin, tehlikelerin ve sürprizlerin dolu olduğu bir dünyada, oyuncuların sırları açığa çıkararak sonuca ulaşmaları gerekmektedir.
+Oyunun içindeki karakter, bir yazılımcı ve oyun geliştirici olan asosyal bir adamdır. Bir gece, kasvetli ve sade bir odada uyandığında, yalnızca ekranın aydınlattığı bir ortamda bulur kendini. Ekran aniden canlanır ve kendi yaptığı bir oyunun içine çekilir. Oyun başlamıştır...
+
+Karakter, oyun dünyasında bir büyücüyle karşılaşır. Büyücü, karakterin kızına yeterince vakit ayırmadığı için ona ders vermek üzere oyun içine hapsolmuştur. Kızına kavuşabilmesi için karakterin oyunu tamamlaması gerekmektedir.
+
+Oyunun hikayesi, karakterin üç canavarı yenmesini gerektirir. Her bir canavarın öldürülmesiyle birlikte karakter, kızının yaptığı özel bir resmi, aile fotoğrafını bulur. Resimde, annenin ve babanın üzerine çarpı işareti konulmuştur. Bu detay, karaktere büyücünün kızının annesi ve babasıyla tekrar bir araya gelmesi gerektiğini anlatır.
+
+Karakter, bir sonraki görevde babasının kızına doğum gününde hediye ettiği sırt çantasını bulur. Bu nesne, karakterin kızına olan sevgisini ve özlemini simgeler. Üçüncü ve son görevde ise karakter, oyuncak ayısını bulur. Ayı, karakterin kızının en sevdiği oyuncaktır ve onunla güzel anıları vardır.
+
+Her bir görevin sonunda karakter, birer büyü yeteneği kazanır. İlk görevin sonunda büyü atma yeteneği aktif hale gelir. Karakter, oyunu hackler ve bu yeteneği oyun dünyasına ekler.
+
+Karakterin ilerlediği yolculuk sırasında karşısına çıkan canavarlar arasında kör canavarlar da vardır. Bu canavarlar sessizce karakterin arasından geçmeye çalışarak nesneleri almaya çalışır. Karakter, parkurda ilerlerken bu canavarları öldürerek nesneleri korumak zorundadır.
+
+İkinci bölümde karakter, bir bulmacayı çözmek zorundadır. Bu bölümde karaktere karşı kör canavarlardan daha yetenekli bir canavar çıkar. Karakter bu canavarı yendiğinde ise zindana ilerler.
+
+Son ve en zorlu görevde karşısına "SAĞIR" adında bir canavar çıkar. Bu canavarın duyma yetisi yoktur, ancak diğer canavarlara göre daha güçlüdür. Karakter, bu canavarı da öldürerek son nesneyi alır.
+
+Sonunda karakter, büyücü tarafından uyandırılır ve fark eder ki her şey bir rüyadır. Pilinin bitmesiyle beraber gerçek dünyaya döner.
 
 ## Oyun Amacı
 
- Türk mitolojisini temel alarak diğer bilinen mitojolilerin (yunan,roma,mısır,iskandinav mitolojileri gibi) bilinirlik düzeyine türk mitolojisinide çıkarmak.
+Oyunun amacı, oyuncunun karakterin kızına kavuşabilmesi için oyunu tamamlamasını sağlamaktır. Karakter, kendi yaptığı oyunun içine hapsolmuştur ve bir büyücü ile karşılaşır. Büyücü, karaktere kızına yeterince vakit ayırmadığı için ona ders vermek üzere oyun dünyasına sokulmuştur. Kızına kavuşabilmesi için karakterin oyunu bitirmesi gerekmektedir.
 
 ## Hedef Kitle
 
-18 Yaş ve üzeri, korku, gerilim, macera oyunları oynamaktan keyif alan tüm oyuncular.
+Her yaştan, korku, gerilim, macera,dram oyunları oynamaktan keyif alan tüm oyuncular.
 
 ## JURIYE NOT
 
@@ -91,4 +111,33 @@ Scrum Master belirlendi, daha cok toplanti duzenlenmesine karar verildi, uyeleri
 ## Product Backlog URL
 
 [UNITY Takım 90 Trello Backlog](https://trello.com/b/Sddu6AAV/u-90 "UNITY Takım 90 Trello Backlog")
+
+---
+
+# Sprint 2
+Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+
+Daily Scrum: Daily Scrum toplantılarının iletişim kolaylığı açısından Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya png olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 2 Daily Scrum Chats 
+![Ekran Görüntüsü (347)](https://github.com/tuncss/NoNameProject/assets/96622899/2682ad62-1b02-4315-b677-7a877020e01d)
+![Ekran Görüntüsü (348)](https://github.com/tuncss/NoNameProject/assets/96622899/b16e4415-c595-4fc7-bf82-78967af6cac1)
+![Ekran Görüntüsü (349)](https://github.com/tuncss/NoNameProject/assets/96622899/5315f781-8597-4b20-9780-5f891d271c11)
+![Ekran Görüntüsü (350)](https://github.com/tuncss/NoNameProject/assets/96622899/cbf71cfb-efa8-48bc-bf75-9def555d0b15)
+
+Sprint board update: Sprint board screenshotları:
+
+
+![WhatsApp Image 2023-06-30 at 16 00 50](https://github.com/tuncss/NoNameProject/assets/96622899/d2031166-3e9e-4a55-b034-15b863b00a93)
+![ezgif com-video-to-gif](https://github.com/tuncss/NoNameProject/assets/96622899/517e34f6-76ce-4c1a-b0ea-813ab76146ff)
+![Ekran Görüntüsü (346)](https://github.com/tuncss/NoNameProject/assets/96622899/04c0a90c-1398-476d-b8ff-e1dd1a9da3bc)
+![Ekran Görüntüsü (355)](https://github.com/tuncss/NoNameProject/assets/96622899/43c22ed2-58b8-4e99-b7c0-8d089857e804)
+
+
+
+Sprint Review: Alınan kararlar: Giriş ekranı tasarımı,düşman karakterlerin kodlanması, ana karakter animasyonlarıyapılmış ve eksiklikleri değerlendirilmiştir. Sprint Review katılımcıları: Kağan Kırbaş, Emre Sarac, Fatma Nur Işık, Nazlıcan Özçakır
+
+Sprint Retrospective:
+Sahne tasarımlarının ve level designlerın üzerinde konuşulmuş ve takım üyeleri arasında görev dağılımları yapılmıştır. Oyun fikrinde de bazı kısımlar revize edilmiştir. 
+Product Backlog URL:
+[UNITY Takım 90 Trello Backlog](https://trello.com/b/Sddu6AAV/u-90 "UNITY Takım 90 Trello Backlog")
+
 
