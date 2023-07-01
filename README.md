@@ -66,7 +66,8 @@ Oyunun amacı, oyuncunun karakterin kızına kavuşabilmesi için oyunu tamamlam
 Her yaştan, korku, gerilim, macera ve dram oyunları oynamaktan keyif alan tüm oyuncular.
 
 ## JURIYE NOT
-
+# 1. Sprint Notları:
+Oyun hikayesinde bir takım düzeltmeler yapılmalıdır.
 
 ---
 
@@ -140,5 +141,7 @@ Product Backlog URL:
 
 [UNITY Takım 90 Trello Backlog](https://trello.com/b/Sddu6AAV/u-90 "UNITY Takım 90 Trello Backlog")
 
+# 2.Sprint Notları:
+Oyun görevleri dağıtımı, oyun detaylandırılması, oyun revizyonu yapılmıştır. Sonraki sprintte ne yapılacağına karar verilmelidir.
 
 
