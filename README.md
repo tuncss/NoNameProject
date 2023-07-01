@@ -3,7 +3,6 @@
 Unity U-90 
 
 
-
 ## Takım Üyeleri
 
 - Mustafa Tunç: Product Owner
@@ -15,11 +14,11 @@ Unity U-90
 
 ## Oyun İsmi
 
-KAM
+
 
 ## Oyun Açıklaması
 
-Oyun Adı: KAM
+Oyun Adı: DREAM MAGICIAN
 
 Tür: Gizem, Bulmaca, Gerilim, Aksiyon
 
@@ -63,7 +62,7 @@ Oyunun amacı, oyuncunun karakterin kızına kavuşabilmesi için oyunu tamamlam
 
 ## Hedef Kitle
 
-Her yaştan, korku, gerilim, macera,dram oyunları oynamaktan keyif alan tüm oyuncular.
+Her yaştan, korku, gerilim, macera ve dram oyunları oynamaktan keyif alan tüm oyuncular.
 
 ## JURIYE NOT
 
@@ -138,5 +137,6 @@ Sahne tasarımlarının ve level designlerın üzerinde konuşulmuş ve takım �
 
 Product Backlog URL:
 [UNITY Takım 90 Trello Backlog](https://trello.com/b/Sddu6AAV/u-90 "UNITY Takım 90 Trello Backlog")
+
 
 
