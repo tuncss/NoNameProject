@@ -135,6 +135,7 @@ Sprint Retrospective:
 Sahne tasarımlarının ve level designlerın üzerinde konuşulmuş ve takım üyeleri arasında görev dağılımları yapılmıştır. Oyun fikrinde de bazı kısımlar revize edilmiştir. 
 
 Product Backlog URL:
+
 [UNITY Takım 90 Trello Backlog](https://trello.com/b/Sddu6AAV/u-90 "UNITY Takım 90 Trello Backlog")
 
 
