@@ -15,7 +15,7 @@ Unity U-90
 
 ## Oyun İsmi
 
-
+DREAM MAGICIAN
 
 ## Oyun Açıklaması
 
@@ -124,10 +124,12 @@ Sprint 2 Daily Scrum Chats:
 ![Ekran Görüntüsü (350)](https://github.com/tuncss/NoNameProject/assets/96622899/cbf71cfb-efa8-48bc-bf75-9def555d0b15)
 
 Sprint board update: Sprint board screenshotları:
+![Ekran Görüntüsü (355)](https://github.com/tuncss/NoNameProject/assets/96622899/43c22ed2-58b8-4e99-b7c0-8d089857e804)
 ![WhatsApp Image 2023-06-30 at 16 00 50](https://github.com/tuncss/NoNameProject/assets/96622899/d2031166-3e9e-4a55-b034-15b863b00a93)
 ![Ekran Görüntüsü (346)](https://github.com/tuncss/NoNameProject/assets/96622899/04c0a90c-1398-476d-b8ff-e1dd1a9da3bc)
-![Ekran Görüntüsü (355)](https://github.com/tuncss/NoNameProject/assets/96622899/43c22ed2-58b8-4e99-b7c0-8d089857e804)
-https://github.com/tuncss/NoNameProject/assets/96622899/b32fd7d7-cabd-468a-8394-4c1112c6faf6
+https://github.com/tuncss/NoNameProject/assets/96622899/32cc398f-039c-49c1-ae5b-ea95c2e22cda
+
+
 
 Sprint Review: Alınan kararlar: Giriş ekranı tasarımı,düşman karakterlerin kodlanması, ana karakter animasyonları yapılmasına karar verilmiş ve eksiklikleri değerlendirilmiştir. Sprint Review katılımcıları: Kağan Kırbaş, Emre Sarac, Fatma Nur Işık, Nazlıcan Özçakır
 
