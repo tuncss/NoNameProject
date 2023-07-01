@@ -1,11 +1,8 @@
-![Ekran Görüntüsü (345)](https://github.com/tuncss/NoNameProject/assets/96622899/426deb90-825f-4ca8-9f8e-a27ae324084f)![Ekran Görüntüsü (351)](https://github.com/tuncss/NoNameProject/assets/96622899/659db587-5185-4d81-9849-fb381ddbedb2)
-![Ekran Görüntüsü (350)](https://github.com/tuncss/NoNameProject/assets/96622899/3d8ce19c-e19b-424b-8fcb-7a17f85aa073)
-![Ekran Görüntüsü (350)](https://github.com/tuncss/NoNameProject/assets/96622899/dceb2934-8bfb-42d9-a8ea-551bbce69e29)
-![Ekran Görüntüsü (349)](https://github.com/tuncss/NoNameProject/assets/96622899/e448f280-9080-4db3-b528-18981c91d43e)
 # **Takım İsmi**
 
 Unity U-90 
-# Oyun İle İlgili Bilgiler
+
+
 
 ## Takım Üyeleri
 
@@ -14,6 +11,7 @@ Unity U-90
 - Emre Saraç: Team Member/Developer
 - Kağan Kırbaş: Team Member/Developer
 - Fatma Nur Işık : Team Member/Developer
+# Oyun İle İlgili Bilgiler
 
 ## Oyun İsmi
 
@@ -137,6 +135,7 @@ Sprint Review: Alınan kararlar: Giriş ekranı tasarımı,düşman karakterleri
 
 Sprint Retrospective:
 Sahne tasarımlarının ve level designlerın üzerinde konuşulmuş ve takım üyeleri arasında görev dağılımları yapılmıştır. Oyun fikrinde de bazı kısımlar revize edilmiştir. 
+
 Product Backlog URL:
 [UNITY Takım 90 Trello Backlog](https://trello.com/b/Sddu6AAV/u-90 "UNITY Takım 90 Trello Backlog")
 
