@@ -24,7 +24,7 @@ Oyun Adı: DREAM MAGICIAN
 Tür: Gizem, Bulmaca, Gerilim, Aksiyon
 
 Konsept:
-KAM, üçüncü şahıs kamera açısıyla oynanan bir oyun olup gizem, bulmaca, gerilim ve aksiyon ögelerini içerir. Oyuncular, üç ana aşamayı tamamlarken parkurlar yapma, bulmacaları çözme ve canavarlardan kaçmak amacıyla tehlikeli bir dünyada yolculuğa çıkarlar.
+Oyunumuz, üçüncü şahıs kamera açısıyla oynanan bir oyun olup gizem, bulmaca, gerilim ve aksiyon ögelerini içerir. Oyuncular, üç ana aşamayı tamamlarken parkurlar yapma, bulmacaları çözme ve canavarlardan kaçmak amacıyla tehlikeli bir dünyada yolculuğa çıkarlar.
 
 Oynanış:
 Oyun üç ana aşamadan oluşur ve her bir aşamanın sonunda oyuncular, oyun hikayesini destekleyecek bir takım nesnelere ulaşır. Bunun için ise canavarları geçmek zorundadırlar.
