@@ -36,7 +36,7 @@ Oyuncular, aşama boyunca keşfedilecek labirent benzeri alanlarda bulunan bulma
 Her aşamanın sonunda, oyuncular canavarları öldürebilmek için parkurlar yaparlar. Canavarları alt ettikten sonra çok özel nesnelere ulaşırlar.
 
 Grafikler ve Atmosfer:
-KAM, etkileyici grafikler ve atmosferik bir ortamla oyuncuları içine çeken bir dünyaya sahip olacaktır. Çoğunlukla low poly mekan tasarımlarına sahip ve oyunun akışını destekleyen mekan tasarımlarına sahiptir.
+Oyunumuz, etkileyici grafikler ve atmosferik bir ortamla oyuncuları içine çeken bir dünyaya sahip olacaktır. Çoğunlukla low poly mekan tasarımlarına sahip ve oyunun akışını destekleyen mekan tasarımlarına sahiptir.
 
 Hikaye:
 Oyunun içindeki karakter, bir yazılımcı ve oyun geliştirici olan asosyal bir adamdır. Bir gece, kasvetli ve sade bir odada uyandığında, yalnızca ekranın aydınlattığı bir ortamda bulur kendini. Ekran aniden canlanır ve kendi yaptığı bir oyunun içine çekilir. Oyun başlamıştır...
