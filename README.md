@@ -115,7 +115,8 @@ Scrum Master belirlendi, daha cok toplanti duzenlenmesine karar verildi, uyeleri
 
 # Sprint 2
 Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
-
+## Puan tamamlama mantığı: 
+Toplamda proje boyunca tamamlanması gereken 300 puan uzerinden degerlendirmesi yapilacaktir. Bu sprintte tamamlanması gereken puan ise 120 puandır.
 Daily Scrum: Daily Scrum toplantılarının iletişim kolaylığı açısından Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya png olarak Readme'de tarafımızdan paylaşılmaktadır. 
 
 Sprint 2 Daily Scrum Chats: 
