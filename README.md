@@ -122,9 +122,9 @@ Sprint 2 Daily Scrum Chats:
 
 
 Sprint board update: Sprint board screenshotları:
-![Ekran Görüntüsü (355)](https://github.com/tuncss/NoNameProject/assets/96622899/43c22ed2-58b8-4e99-b7c0-8d089857e804)
-![WhatsApp Image 2023-06-30 at 16 00 50](https://github.com/tuncss/NoNameProject/assets/96622899/d2031166-3e9e-4a55-b034-15b863b00a93)
-![Ekran Görüntüsü (346)](https://github.com/tuncss/NoNameProject/assets/96622899/04c0a90c-1398-476d-b8ff-e1dd1a9da3bc)
+![Ekran Görüntüsü (355)](https://github.com/tuncss/NoNameProject/assets/96622899/fb03f328-2793-40dd-b887-d4e4e2b5d48a)
+![Ekran Görüntüsü (376)](https://github.com/tuncss/NoNameProject/assets/96622899/482eace7-c6ae-4a10-aa8f-e7f42e353b64)
+![Ekran Görüntüsü (346)](https://github.com/tuncss/NoNameProject/assets/96622899/b7d8db65-7d01-4e9f-ae91-25c76ff4e97d)
 https://github.com/tuncss/NoNameProject/assets/96622899/32cc398f-039c-49c1-ae5b-ea95c2e22cda
 
 
@@ -167,7 +167,7 @@ Sprint Retrospective:
 
 Takım üyelerinin gelecek projelerde kesinlikle daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
-# ** NOT: Oyun içinde kullanılan bütün ücretsiz ögeler word dosyasına eklenmiştir.**
+##  NOT: Oyun içinde kullanılan bütün ücretsiz ögeler word dosyasına eklenmiştir.
 [Asset Bağlantıları.docx](https://github.com/tuncss/NoNameProject/files/12064033/Asset.Baglantilari.docx)
 
 
