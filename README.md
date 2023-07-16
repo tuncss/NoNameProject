@@ -1,3 +1,8 @@
+![Ekran Görüntüsü (378)](https://github.com/tuncss/NoNameProject/assets/96622899/50e5042d-e975-4114-8711-dc56636798ed)
+![Ekran Görüntüsü (377)](https://github.com/tuncss/NoNameProject/assets/96622899/fdda4d59-6834-441d-a833-3b16244142cd)
+![Ekran Görüntüsü (376)](https://github.com/tuncss/NoNameProject/assets/96622899/181caf08-c2e3-49c7-b404-5c9db52bc236)
+![Ekran Görüntüsü (378)](https://github.com/tuncss/NoNameProject/assets/96622899/896c50e7-c035-4f1e-9f69-effda08a4814)
+![Ekran Görüntüsü (377)](https://github.com/tuncss/NoNameProject/assets/96622899/c80e26af-aea7-47f0-bb97-d4c6d9481bf1)
 
 # **Takım İsmi**
 
@@ -144,14 +149,20 @@ Oyun görevleri dağıtımı, oyun detaylandırılması, oyun revizyonu yapılm�
 ## Sprint 3
 Sprint içinde tamamlanması tahmin edilen puan: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
 
-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:[Daily Scrum Chats.docx](https://github.com/tuncss/NoNameProject/files/12063921/Daily.Scrum.Chats.docx)
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+[Daily Scrum Chats.docx](https://github.com/tuncss/NoNameProject/files/12063921/Daily.Scrum.Chats.docx)
  
 
-Sprint board update: Sprint board screenshotları: ![Ekran Görüntüsü (371)](https://github.com/tuncss/NoNameProject/assets/96622899/ad8d2aa7-c554-41fb-88f4-19ea61fb52d9)
+Sprint board update: Sprint board screenshotları: 
+![Ekran Görüntüsü (371)](https://github.com/tuncss/NoNameProject/assets/96622899/ad8d2aa7-c554-41fb-88f4-19ea61fb52d9)
 
 
-Ürün Durumu: Ekran görüntüleri: ![Uploading Ekran Görüntüsü (375).png…]()
-![Uploading Ekran Görüntüsü (374).png…]()
+Ürün Durumu: Ekran görüntüleri: 
+![Ekran Görüntüsü (374)](https://github.com/tuncss/NoNameProject/assets/96622899/55893600-9202-4240-98ce-0636aec89a75)
+![Ekran Görüntüsü (375)](https://github.com/tuncss/NoNameProject/assets/96622899/10eef128-acff-40f7-aac4-54584da4a547)
+![Ekran Görüntüsü (376)](https://github.com/tuncss/NoNameProject/assets/96622899/e9b2247b-f998-43d2-9c51-7840efa2bf20)
+![Ekran Görüntüsü (377)](https://github.com/tuncss/NoNameProject/assets/96622899/21a3fa7c-34cc-4ff2-8215-f3f42cee425c)
+![Ekran Görüntüsü (378)](https://github.com/tuncss/NoNameProject/assets/96622899/68ca6b25-aeb7-4cee-81fc-1f7edb3b0b72)
 
 
 Sprint Review: Alınan kararlar ve Yapılanlar: Giriş sahnesi, devam sahnesi, son sahne, oyun seçim ekrani, firebase bağlantısı, haritaya karakter entegrasyonu, son sahne,oyun içi seçim ekrani ve oyun içi level design tasarlanmış ve bitirilmiştir. Oyun hikayesi yeniden düznlenmiş ve planlama yapılmıştır. Sprint Review katılımcıları: Fatma Nur Işık, Kağan Kırbaş
@@ -160,7 +171,7 @@ Sprint Retrospective:
 
 Takım üyelerinin gelecek projelerde kesinlikle daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
-# NOT: Oyun içinde kullanılan bütün ücretsiz ögeler word dosyasına eklenmiştir.
+# ** NOT: Oyun içinde kullanılan bütün ücretsiz ögeler word dosyasına eklenmiştir.**
 [Asset Bağlantıları.docx](https://github.com/tuncss/NoNameProject/files/12064033/Asset.Baglantilari.docx)
 
 
