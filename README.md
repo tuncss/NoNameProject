@@ -49,7 +49,7 @@ Karakterin ilerlediği yolculuk sırasında karşısına çıkan canavarlar aras
 
 Son ve en zorlu görevde karşısına "SAĞIR" adında bir canavar çıkar. Bu canavarın duyma yetisi yoktur, ancak diğer canavarlara göre daha güçlüdür. Karakter, bu canavarı da öldürerek son nesneyi alır.
 
-Sonunda karakter, büyücü tarafından uyandırılır ve fark eder ki her şey bir rüyadır. Pilinin bitmesiyle beraber gerçek dünyaya döner.
+Sonunda karakter, büyücü tarafından uyandırılır ve fark eder ki her şey bir rüyadır. Oyunun bitmesiyle beraber gerçek dünyaya döner.
 
 ## Oyun Amacı
 
