@@ -1,8 +1,3 @@
-![Ekran Görüntüsü (378)](https://github.com/tuncss/NoNameProject/assets/96622899/50e5042d-e975-4114-8711-dc56636798ed)
-![Ekran Görüntüsü (377)](https://github.com/tuncss/NoNameProject/assets/96622899/fdda4d59-6834-441d-a833-3b16244142cd)
-![Ekran Görüntüsü (376)](https://github.com/tuncss/NoNameProject/assets/96622899/181caf08-c2e3-49c7-b404-5c9db52bc236)
-![Ekran Görüntüsü (378)](https://github.com/tuncss/NoNameProject/assets/96622899/896c50e7-c035-4f1e-9f69-effda08a4814)
-![Ekran Görüntüsü (377)](https://github.com/tuncss/NoNameProject/assets/96622899/c80e26af-aea7-47f0-bb97-d4c6d9481bf1)
 
 # **Takım İsmi**
 
