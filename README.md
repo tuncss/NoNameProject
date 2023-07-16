@@ -114,10 +114,11 @@ Toplamda proje boyunca tamamlanması gereken 300 puan uzerinden degerlendirmesi 
 Daily Scrum: Daily Scrum toplantılarının iletişim kolaylığı açısından Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya png olarak Readme'de tarafımızdan paylaşılmaktadır. 
 
 Sprint 2 Daily Scrum Chats: 
-![Ekran Görüntüsü (347)](https://github.com/tuncss/NoNameProject/assets/96622899/2682ad62-1b02-4315-b677-7a877020e01d)
-![Ekran Görüntüsü (348)](https://github.com/tuncss/NoNameProject/assets/96622899/b16e4415-c595-4fc7-bf82-78967af6cac1)
-![Ekran Görüntüsü (349)](https://github.com/tuncss/NoNameProject/assets/96622899/5315f781-8597-4b20-9780-5f891d271c11)
-![Ekran Görüntüsü (350)](https://github.com/tuncss/NoNameProject/assets/96622899/cbf71cfb-efa8-48bc-bf75-9def555d0b15)
+![Uploading Ekran Görüntüsü (348).png…]()
+![Uploading Ekran Görüntüsü (347).png…]()
+![Uploading Ekran Görüntüsü (350).png…]()
+![Uploading Ekran Görüntüsü (349).png…]()
+
 
 Sprint board update: Sprint board screenshotları:
 ![Ekran Görüntüsü (355)](https://github.com/tuncss/NoNameProject/assets/96622899/43c22ed2-58b8-4e99-b7c0-8d089857e804)
@@ -159,6 +160,7 @@ Sprint Retrospective:
 
 Takım üyelerinin gelecek projelerde kesinlikle daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
-NOT: Oyun içinde kullanılan bütün ücretsiz ögeler word dosyasına eklenmiştir.
+# NOT: Oyun içinde kullanılan bütün ücretsiz ögeler word dosyasına eklenmiştir.
+[Asset Bağlantıları.docx](https://github.com/tuncss/NoNameProject/files/12064033/Asset.Baglantilari.docx)
 
 
