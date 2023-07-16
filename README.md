@@ -24,34 +24,28 @@ Oyun Adı: DREAM MAGICIAN
 Tür: Gizem, Bulmaca, Gerilim, Aksiyon
 
 Konsept:
-Oyunumuz, üçüncü şahıs kamera açısıyla oynanan bir oyun olup gizem, bulmaca, gerilim ve aksiyon ögelerini içerir. Oyuncular, üç ana aşamayı tamamlarken parkurlar yapma, bulmacaları çözme ve canavarlardan kaçmak amacıyla tehlikeli bir dünyada yolculuğa çıkarlar.
+Oyunumuz, birinci şahıs kamera açısıyla oynanan bir oyun olup  sinematiklerle güçlendirilmiş gizem, bulmaca, gerilim ve aksiyon ögelerini içerir. Oyuncular, iki ana haritayı tamamlarken parkurlar yapma, labirentten kurtulma ve canavarlardan kaçmak amacıyla tehlikeli bir dünyada yolculuğa çıkarlar.
 
 Oynanış:
-Oyun üç ana aşamadan oluşur ve her bir aşamanın sonunda oyuncular, oyun hikayesini destekleyecek bir takım nesnelere ulaşır. Bunun için ise canavarları geçmek zorundadırlar.
+Oyun iki ana aşamadan oluşur ve her bir aşamanın sonunda oyuncular, bir sonraki haritaya ulaşır ve en sonunda bitişe ulaşır. Bunun için ise canavarları geçmek zorundadırlar.
 
 Oyunda bulunan yaratıkların her birinin benzersiz yetenlikleri ve zayıflıkları vardır. Örneğin, sağır bir canavarın gözüne nişan almak, onu sersemletir veya daha fazla hasar verir. Oyuncuların yaratıkların hitbox'larına dikkat etmeleri ve stratejik hamleler yapmaları gerekmektedir.
 
-Oyuncular, aşama boyunca keşfedilecek labirent benzeri alanlarda bulunan bulmacaları çözerek ilerlerler. Bu bulmacalar, gizli geçitleri açma, mekanizmaları etkinleştirme veya ipuçlarını ortaya çıkarma gibi çeşitli zorluklar içerir.
+Oyuncular, aşama boyunca keşfedilecek labirent benzeri alanlarda bulunan çıkışı ararlar.Böylece canavrdan kurluarak sonraki haritaya ulaşırlar.
 
 Her aşamanın sonunda, oyuncular canavarları öldürebilmek için parkurlar yaparlar. Canavarları alt ettikten sonra çok özel nesnelere ulaşırlar.
 
 Grafikler ve Atmosfer:
-Oyunumuz, etkileyici grafikler ve atmosferik bir ortamla oyuncuları içine çeken bir dünyaya sahip olacaktır. Çoğunlukla low poly mekan tasarımlarına sahip ve oyunun akışını destekleyen mekan tasarımlarına sahiptir.
+Oyunumuz, etkileyici grafikler ve atmosferik bir ortamla oyuncuları içine çeken bir dünyaya sahip olacaktır. Çoğunlukla karanlık mekan tasarımlarına sahip ve oyunun akışını destekleyen mekan tasarımlarına sahiptir.
 
 Hikaye:
-Oyunun içindeki karakter, bir yazılımcı ve oyun geliştirici olan asosyal bir adamdır. Bir gece, kasvetli ve sade bir odada uyandığında, yalnızca ekranın aydınlattığı bir ortamda bulur kendini. Ekran aniden canlanır ve kendi yaptığı bir oyunun içine çekilir. Oyun başlamıştır...
+Oyunun içindeki karakter, bir yazılımcı ve oyun geliştirici olan asosyal bir kadındır. Bir gece, yine projesi üzerinde çalışırken birden kendini bilgisayarının içine girerken bulur. Oyun başlamıştır...
 
-Karakter, oyun dünyasında bir büyücüyle karşılaşır. Büyücü, karakterin kızına yeterince vakit ayırmadığı için ona ders vermek üzere oyun içine hapsolmuştur. Kızına kavuşabilmesi için karakterin oyunu tamamlaması gerekmektedir.
+Karakter, oyun dünyasında bir büyücüyle karşılaşır. Büyücü, karaktere ilerisi ile ilgili bilgiler verir.Karakterimiz kendi yarattığı dünyaya hapsolmuştur.
 
-Oyunun hikayesi, karakterin üç canavarı yenmesini gerektirir. Her bir canavarın öldürülmesiyle birlikte karakter, kızının yaptığı özel bir resmi, aile fotoğrafını bulur. Resimde, annenin ve babanın üzerine çarpı işareti konulmuştur. Bu detay, karaktere büyücünün kızının annesi ve babasıyla tekrar bir araya gelmesi gerektiğini anlatır.
+Oyunun hikayesi, karakterin üç canavarı yenmesini gerektirir. Her bir canavarın öldürülmesiyle birlikte karakter, bir sonraki aşamaya geçer ve en sonunda bir rüyada olduğunu anlar.
 
-Karakter, bir sonraki görevde babasının kızına doğum gününde hediye ettiği sırt çantasını bulur. Bu nesne, karakterin kızına olan sevgisini ve özlemini simgeler. Üçüncü ve son görevde ise karakter, oyuncak ayısını bulur. Ayı, karakterin kızının en sevdiği oyuncaktır ve onunla güzel anıları vardır.
-
-Her bir görevin sonunda karakter, birer büyü yeteneği kazanır. İlk görevin sonunda büyü atma yeteneği aktif hale gelir. Karakter, oyunu hackler ve bu yeteneği oyun dünyasına ekler.
-
-Karakterin ilerlediği yolculuk sırasında karşısına çıkan canavarlar arasında kör canavarlar da vardır. Bu canavarlar sessizce karakterin arasından geçmeye çalışarak nesneleri almaya çalışır. Karakter, parkurda ilerlerken bu canavarları öldürerek nesneleri korumak zorundadır.
-
-İkinci bölümde karakter, bir bulmacayı çözmek zorundadır. Bu bölümde karaktere karşı kör canavarlardan daha yetenekli bir canavar çıkar. Karakter bu canavarı yendiğinde ise zindana ilerler.
+Karakterin ilerlediği yolculuk sırasında karşısına çıkan canavarlar arasında ilk sırada kör canavarlar vardır. Bu canavarlar sessizce karakterin arasından geçmeye çalışarak nesneleri almaya çalışır. Karakter, parkurda ilerlerken bu canavarları öldürerek nesneleri korumak zorundadır.
 
 Son ve en zorlu görevde karşısına "SAĞIR" adında bir canavar çıkar. Bu canavarın duyma yetisi yoktur, ancak diğer canavarlara göre daha güçlüdür. Karakter, bu canavarı da öldürerek son nesneyi alır.
 
@@ -59,7 +53,7 @@ Sonunda karakter, büyücü tarafından uyandırılır ve fark eder ki her şey 
 
 ## Oyun Amacı
 
-Oyunun amacı, oyuncunun karakterin kızına kavuşabilmesi için oyunu tamamlamasını sağlamaktır. Karakter, kendi yaptığı oyunun içine hapsolmuştur ve bir büyücü ile karşılaşır. Büyücü, karaktere kızına yeterince vakit ayırmadığı için ona ders vermek üzere oyun dünyasına sokulmuştur. Kızına kavuşabilmesi için karakterin oyunu bitirmesi gerekmektedir.
+Oyunun amacı, oyuncunun karakteri kendi yarattığı dünyadan kurtarmaktır. Karakter, kendi yaptığı oyunun içine hapsolmuştur ve bir büyücü ile karşılaşır. Karakterin kurtulabilmesi için karakterin oyunu bitirmesi gerekmektedir.
 
 ## Hedef Kitle
 
@@ -144,5 +138,27 @@ Product Backlog URL:
 
 # 2.Sprint Notları:
 Oyun görevleri dağıtımı, oyun detaylandırılması, oyun revizyonu yapılmıştır. Sonraki sprintte ne yapılacağına karar verilmelidir.
+
+
+## Sprint 3
+Sprint içinde tamamlanması tahmin edilen puan: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:[Daily Scrum Chats.docx](https://github.com/tuncss/NoNameProject/files/12063921/Daily.Scrum.Chats.docx)
+ 
+
+Sprint board update: Sprint board screenshotları: ![Ekran Görüntüsü (371)](https://github.com/tuncss/NoNameProject/assets/96622899/ad8d2aa7-c554-41fb-88f4-19ea61fb52d9)
+
+
+Ürün Durumu: Ekran görüntüleri: ![Uploading Ekran Görüntüsü (375).png…]()
+![Uploading Ekran Görüntüsü (374).png…]()
+
+
+Sprint Review: Alınan kararlar ve Yapılanlar: Giriş sahnesi, devam sahnesi, son sahne, oyun seçim ekrani, firebase bağlantısı, haritaya karakter entegrasyonu, son sahne,oyun içi seçim ekrani ve oyun içi level design tasarlanmış ve bitirilmiştir. Oyun hikayesi yeniden düznlenmiş ve planlama yapılmıştır. Sprint Review katılımcıları: Fatma Nur Işık, Kağan Kırbaş
+
+Sprint Retrospective:
+
+Takım üyelerinin gelecek projelerde kesinlikle daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+NOT: Oyun içinde kullanılan bütün ücretsiz ögeler word dosyasına eklenmiştir.
 
 
