@@ -114,10 +114,11 @@ Toplamda proje boyunca tamamlanması gereken 300 puan uzerinden degerlendirmesi 
 Daily Scrum: Daily Scrum toplantılarının iletişim kolaylığı açısından Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya png olarak Readme'de tarafımızdan paylaşılmaktadır. 
 
 Sprint 2 Daily Scrum Chats: 
-![Uploading Ekran Görüntüsü (348).png…]()
-![Uploading Ekran Görüntüsü (347).png…]()
-![Uploading Ekran Görüntüsü (350).png…]()
-![Uploading Ekran Görüntüsü (349).png…]()
+![Ekran Görüntüsü (347)](https://github.com/tuncss/NoNameProject/assets/96622899/d8b4d9c1-e2f5-45b8-bd7d-493436aa7343)
+![Ekran Görüntüsü (348)](https://github.com/tuncss/NoNameProject/assets/96622899/2201b038-d3cc-4457-9ad5-5d561b86f6a5)
+![Ekran Görüntüsü (349)](https://github.com/tuncss/NoNameProject/assets/96622899/8ab27a8a-5051-4b80-a0d1-2729abc55eca)
+![Ekran Görüntüsü (350)](https://github.com/tuncss/NoNameProject/assets/96622899/0746d5fb-8cc8-4744-9d5e-ed84df14b117)
+![Ekran Görüntüsü (351)](https://github.com/tuncss/NoNameProject/assets/96622899/878e3283-fc83-42d9-aaed-e5fc27c3a43b)
 
 
 Sprint board update: Sprint board screenshotları:
