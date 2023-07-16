@@ -144,7 +144,7 @@ Product Backlog URL:
 Oyun görevleri dağıtımı, oyun detaylandırılması, oyun revizyonu yapılmıştır. Sonraki sprintte ne yapılacağına karar verilmelidir.
 
 
-## Sprint 3
+# Sprint 3
 Sprint içinde tamamlanması tahmin edilen puan: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
