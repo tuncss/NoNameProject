@@ -173,6 +173,7 @@ Sprint Retrospective:
 Takım üyelerinin gelecek projelerde kesinlikle daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
 ##  NOT: Oyun içinde kullanılan bütün ücretsiz ögeler word dosyasına eklenmiştir.
-[Asset Bağlantıları.docx](https://github.com/tuncss/NoNameProject/files/12064033/Asset.Baglantilari.docx)
+[Asset Bağlantıları.docx](https://github.com/tuncss/NoNameProject/files/12073160/Asset.Baglantilari.docx)
+
 
 
