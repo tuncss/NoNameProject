@@ -164,7 +164,7 @@ Sprint board update: Sprint board screenshotları:
 ![Ekran Görüntüsü (380)](https://github.com/tuncss/NoNameProject/assets/96622899/7fa2021e-193d-4a3b-8ac8-ed02701ed2d5)
 
 
-Sprint Review: Alınan kararlar ve yapılanlar: Giriş sahnesi, devam sahnesi, son sahne, oyun seçim ekrani, firebase bağlantısı, haritaya karakter entegrasyonu, son sahne,oyun içi seçim ekrani ve oyun içi level design tasarlanmış ve bitirilmiştir. Oyun hikayesi yeniden düznlenmiş ve planlama yapılmıştır. Sprint Review katılımcıları: Fatma Nur Işık, Kağan Kırbaş
+Sprint Review: Alınan kararlar ve yapılanlar: Giriş sahnesi, devam sahnesi, son sahne, oyun seçim ekrani, firebase bağlantısı, haritaya karakter entegrasyonu, oyun içi seçim ekrani ve oyun içi level design tasarlanmış ve bitirilmiştir. Oyun hikayesi yeniden düznlenmiş ve planlama yapılmıştır. Sprint Review katılımcıları: Fatma Nur Işık, Kağan Kırbaş
 
 Sprint Retrospective:
 
