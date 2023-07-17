@@ -21,7 +21,7 @@ DREAM MAGICIAN
 
 Oyun Adı: DREAM MAGICIAN
 
-Tür: Gizem, Bulmaca, Gerilim, Aksiyon
+Tür: Gizem, Bulmaca, Gerilim, Aksiyon,Korku
 
 Konsept:
 Oyunumuz, birinci şahıs kamera açısıyla oynanan bir oyun olup  sinematiklerle güçlendirilmiş gizem, bulmaca, gerilim ve aksiyon ögelerini içerir. Oyuncular, iki ana haritayı tamamlarken parkurlar yapma, labirentten kurtulma ve canavarlardan kaçmak amacıyla tehlikeli bir dünyada yolculuğa çıkarlar.
@@ -161,6 +161,7 @@ Sprint board update: Sprint board screenshotları:
 ![Ekran Görüntüsü (376)](https://github.com/tuncss/NoNameProject/assets/96622899/e9b2247b-f998-43d2-9c51-7840efa2bf20)
 ![Ekran Görüntüsü (377)](https://github.com/tuncss/NoNameProject/assets/96622899/21a3fa7c-34cc-4ff2-8215-f3f42cee425c)
 ![Ekran Görüntüsü (378)](https://github.com/tuncss/NoNameProject/assets/96622899/68ca6b25-aeb7-4cee-81fc-1f7edb3b0b72)
+![Ekran Görüntüsü (380)](https://github.com/tuncss/NoNameProject/assets/96622899/7fa2021e-193d-4a3b-8ac8-ed02701ed2d5)
 
 
 Sprint Review: Alınan kararlar ve yapılanlar: Giriş sahnesi, devam sahnesi, son sahne, oyun seçim ekrani, firebase bağlantısı, haritaya karakter entegrasyonu, son sahne,oyun içi seçim ekrani ve oyun içi level design tasarlanmış ve bitirilmiştir. Oyun hikayesi yeniden düznlenmiş ve planlama yapılmıştır. Sprint Review katılımcıları: Fatma Nur Işık, Kağan Kırbaş
