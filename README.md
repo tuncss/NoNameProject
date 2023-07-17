@@ -145,7 +145,9 @@ Oyun görevleri dağıtımı, oyun detaylandırılması, oyun revizyonu yapılm�
 
 
 # Sprint 3
-Sprint içinde tamamlanması tahmin edilen puan: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+Sprint içinde tamamlanması tahmin edilen puan: 80 puan
+## Puan Tamamlama Mantığı:
+Toplamda proje boyunca tamamlanması gereken 300 puan uzerinden degerlendirmesi yapilacaktir. Bu sprintte tamamlanması gereken puan ise 80 puandır.
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 [Daily Scrum Chats.docx](https://github.com/tuncss/NoNameProject/files/12063921/Daily.Scrum.Chats.docx)
